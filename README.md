@@ -1,5 +1,7 @@
 # Vote-Shinieder-to-be-your-internationalisation-representative.
-  <title>
+ 
+  <html> 
+    <title>
         VOTE SHINIEDER FOR HOUSE COMM
     </title>
     <body bgcolor="#cf2025">
