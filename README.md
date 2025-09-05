@@ -1,15 +1,12 @@
 # Vote-Shinieder-to-be-your-internationalisation-representative.
  
   <html> 
-    <title>
-        VOTE SHINIEDER FOR HOUSE COMM
-    </title>
     <body bgcolor="#cf2025">
         
  <h1 align="middle"><font face="Arial"><font color="#dcd8cc">SHINIEDER FOR INTERNATIONALISATION REPRESENTATIVE FOR THE YEAR 2026</font></h1>
     <hr height="300"></hr>
-            <h2 align="middle"><img src="documentt.png" width="500" height="500"></h2>
-            <h2 align="middle"><font face="Bahnschrift semibold"><font color="#dcd8cc">Hey Royal Gemmie, thank you for scanning my code. Consider this as your first step to becoming a part of making the right decisions, the next step? Voting for me to be your Internationalisation Representative.<br><img src="heart.jpg" width="100" height="100"></font></h2>
+    <h2 align="middle"><img src="documentt.png" width="500" height="500"></h2>
+    <h2 align="middle"><font face="Bahnschrift semibold"><font color="#dcd8cc">Hey Royal Gemmie, thank you for scanning my code. Consider this as your first step to becoming a part of making the right decisions, the next step? Voting for me to be your Internationalisation Representative.<br><img src="heart.jpg" width="100" height="100"></font></h2>
             <p align="middle"><font face="Bahnschrift semibold"><font color="#edd01f"><font size="50">WHO IS SHINIEDER META?</font></P>
                 <h2 align="middle"><font face="Bahnschrift semibold"><font color="#dcd8cc">She is an 18 year old  student who is passionate about her work, creative, stylish, dedicated, energetic, empathetic, oh well the list is long.</font></h2>
             
