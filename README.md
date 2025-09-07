@@ -1,5 +1,5 @@
  <html> 
-    <body bgcolor="#cf2025">       
+    <body bgcolor="red">       
  <h1 align="middle"><font face="Arial"><font color="#dcd8cc">SHINIEDER FOR INTERNATIONALISATION REPRESENTATIVE FOR THE YEAR 2026 </font></h1>
     <hr height="300"></hr>
     <h2 align="middle"><img src="documentt.png" width="500" height="500"></h2>
