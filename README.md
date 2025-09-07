@@ -1,8 +1,6 @@
-# Vote-Shinieder-to-be-your-internationalisation-representative.
- 
-  <html> 
+ <html> 
     <body bgcolor="#cf2025">       
- <h1 align="middle"><font face="Arial"><font color="#dcd8cc">SHINIEDER FOR INTERNATIONALISATION REPRESENTATIVE FOR THE YEAR 2026</font></h1>
+ <h1 align="middle"><font face="Arial"><font color="#dcd8cc">SHINIEDER FOR INTERNATIONALISATION REPRESENTATIVE FOR THE YEAR 2026 </font></h1>
     <hr height="300"></hr>
     <h2 align="middle"><img src="documentt.png" width="500" height="500"></h2>
     <h2 align="middle"><font face="Bahnschrift semibold"><font color="#dcd8cc">Hey Royal Gemmie, thank you for scanning my code. Consider this as your first step to becoming a part of making the right decisions, the next step? Voting for me to be your Internationalisation Representative.<br><img src="heart.jpg" width="100" height="100"></font></h2>
